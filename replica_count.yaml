@@ -3,4 +3,4 @@ kind: DeploymentConfig
 metadata:
   name: print-headers
 spec:
-  replicas: 8
+  replicas: 35
